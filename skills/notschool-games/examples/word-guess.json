@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0.0",
+  "type": "word_guess",
+  "metadata": {
+    "title": "Animal Vocabulary",
+    "description": "Guess the animal from the clue, one letter at a time.",
+    "language": "en",
+    "subject": "english",
+    "age_min": 7,
+    "age_max": 11,
+    "difficulty": "easy",
+    "duration_minutes": 10,
+    "tags": [
+      "vocabulary",
+      "animals",
+      "spelling"
+    ],
+    "categories": [
+      "animals"
+    ]
+  },
+  "settings": {
+    "max_wrong_guesses": 6,
+    "time_per_question": 60
+  },
+  "content": {
+    "words": [
+      {
+        "clue": "A large grey animal with a trunk.",
+        "answer": "elephant",
+        "explanation": "Elephants use their trunks to drink and grab food."
+      },
+      {
+        "clue": "The king of the jungle.",
+        "answer": "lion"
+      },
+      {
+        "clue": "A black and white bear that eats bamboo.",
+        "answer": "panda"
+      },
+      {
+        "clue": "A bird that cannot fly and lives in Antarctica.",
+        "answer": "penguin"
+      },
+      {
+        "clue": "The tallest animal in the world.",
+        "answer": "giraffe",
+        "hint": "It has a very long neck."
+      }
+    ]
+  }
+}

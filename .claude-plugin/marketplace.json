@@ -1,0 +1,11 @@
+{
+  "name": "notschool",
+  "owner": { "name": "NotSchool", "url": "https://notschool.games" },
+  "plugins": [
+    {
+      "name": "notschool-games",
+      "source": "./",
+      "description": "Create classroom games as JSON and play them on notschool.games."
+    }
+  ]
+}

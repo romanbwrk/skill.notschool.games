@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0.0",
+  "type": "true_false",
+  "metadata": {
+    "title": "Solar System: True or False?",
+    "description": "Quick facts about the planets — decide whether each statement is true or false.",
+    "language": "en",
+    "subject": "science",
+    "age_min": 8,
+    "age_max": 12,
+    "difficulty": "easy",
+    "duration_minutes": 8,
+    "tags": [
+      "space",
+      "planets",
+      "science"
+    ],
+    "categories": [
+      "space"
+    ]
+  },
+  "settings": {
+    "time_per_question": 15
+  },
+  "content": {
+    "statements": [
+      {
+        "statement": "The Sun is a star.",
+        "answer": true,
+        "explanation": "The Sun is a medium-sized star at the centre of our solar system."
+      },
+      {
+        "statement": "Mars is the largest planet in the solar system.",
+        "answer": false,
+        "explanation": "Jupiter is the largest planet."
+      },
+      {
+        "statement": "Saturn has rings.",
+        "answer": true
+      },
+      {
+        "statement": "The Moon makes its own light.",
+        "answer": false,
+        "explanation": "The Moon reflects sunlight."
+      },
+      {
+        "statement": "Earth takes about 365 days to orbit the Sun.",
+        "answer": true
+      },
+      {
+        "statement": "Venus is the closest planet to the Sun.",
+        "answer": false,
+        "explanation": "Mercury is the closest."
+      },
+      {
+        "statement": "Neptune is farther from the Sun than Uranus.",
+        "answer": true
+      },
+      {
+        "statement": "There is no gravity on the Moon.",
+        "answer": false,
+        "explanation": "The Moon's gravity is about one sixth of Earth's."
+      }
+    ]
+  }
+}

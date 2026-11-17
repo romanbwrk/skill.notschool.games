@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0.0",
+  "type": "matching",
+  "metadata": {
+    "title": "Parts of a Plant",
+    "description": "Match each part of a plant with what it does.",
+    "language": "en",
+    "subject": "biology",
+    "age_min": 8,
+    "age_max": 12,
+    "difficulty": "easy",
+    "duration_minutes": 8,
+    "tags": [
+      "plants",
+      "biology"
+    ],
+    "categories": [
+      "plants"
+    ]
+  },
+  "content": {
+    "scoring": "per_pair",
+    "pairs": [
+      {
+        "term": "Roots",
+        "definition": "Take in water and minerals from the soil"
+      },
+      {
+        "term": "Leaves",
+        "definition": "Make food for the plant using sunlight"
+      },
+      {
+        "term": "Stem",
+        "definition": "Holds the plant up and carries water"
+      },
+      {
+        "term": "Flower",
+        "definition": "Makes seeds and attracts pollinators"
+      },
+      {
+        "term": "Seed",
+        "definition": "Grows into a new plant"
+      }
+    ]
+  }
+}

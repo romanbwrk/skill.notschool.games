@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0.0",
+  "type": "math_battle",
+  "metadata": {
+    "title": "Multiplication Battle",
+    "description": "Times tables race: two teams, two calculators.",
+    "language": "en",
+    "subject": "math",
+    "age_min": 9,
+    "age_max": 12,
+    "difficulty": "medium",
+    "duration_minutes": 10,
+    "tags": [
+      "multiplication",
+      "times tables",
+      "arithmetic"
+    ],
+    "categories": [
+      "arithmetic"
+    ]
+  },
+  "settings": {
+    "game_mode": "team_battle",
+    "answer_mode": "head_to_head",
+    "calculator": "basic",
+    "time_per_question": 20,
+    "points_correct": 100,
+    "lock_after_submit": true
+  },
+  "content": {
+    "questions": [
+      {
+        "question": "25 × 8 = ?",
+        "correct_answer": 200,
+        "points": 100
+      },
+      {
+        "question": "7 × 6 = ?",
+        "correct_answer": 42
+      },
+      {
+        "question": "12 × 12 = ?",
+        "correct_answer": 144
+      },
+      {
+        "question": "9 × 8 = ?",
+        "correct_answer": 72
+      },
+      {
+        "question": "15 × 4 = ?",
+        "correct_answer": 60
+      },
+      {
+        "question": "6 × 7 − 50 = ?",
+        "correct_answer": -8,
+        "explanation": "6 × 7 = 42, and 42 − 50 = −8."
+      },
+      {
+        "question": "2.5 × 4 = ?",
+        "correct_answer": 10
+      },
+      {
+        "question": "1 ÷ 3 ≈ ? (two decimals)",
+        "correct_answer": 0.33,
+        "tolerance": 0.01
+      }
+    ]
+  }
+}

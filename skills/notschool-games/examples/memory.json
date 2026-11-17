@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0.0",
+  "type": "memory",
+  "metadata": {
+    "title": "Countries and Capitals Memory",
+    "description": "Find the pairs: each country with its capital city.",
+    "language": "en",
+    "subject": "geography",
+    "age_min": 9,
+    "age_max": 14,
+    "difficulty": "medium",
+    "duration_minutes": 10,
+    "tags": [
+      "capitals",
+      "countries",
+      "memory"
+    ],
+    "categories": [
+      "europe"
+    ]
+  },
+  "settings": {
+    "answer_mode": "turn_based"
+  },
+  "content": {
+    "pairs": [
+      {
+        "a": {
+          "text": "France"
+        },
+        "b": {
+          "text": "Paris"
+        }
+      },
+      {
+        "a": {
+          "text": "Italy"
+        },
+        "b": {
+          "text": "Rome"
+        }
+      },
+      {
+        "a": {
+          "text": "Spain"
+        },
+        "b": {
+          "text": "Madrid"
+        }
+      },
+      {
+        "a": {
+          "text": "Romania"
+        },
+        "b": {
+          "text": "Bucharest"
+        }
+      },
+      {
+        "a": {
+          "text": "Greece"
+        },
+        "b": {
+          "text": "Athens"
+        }
+      },
+      {
+        "a": {
+          "text": "Poland"
+        },
+        "b": {
+          "text": "Warsaw"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "notschool-games",
+  "version": "1.0.0",
+  "description": "Create classroom games (quiz, true/false, word guess, memory, matching, math battle) as JSON and play them on notschool.games.",
+  "homepage": "https://notschool.games",
+  "repository": "https://github.com/moldwebs/notschool-skills",
+  "license": "MIT",
+  "keywords": ["education", "teachers", "classroom", "quiz", "games", "notschool"]
+}

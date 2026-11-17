@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0.0",
+  "type": "quiz",
+  "metadata": {
+    "title": "European Capitals",
+    "description": "Match each European country with its capital city.",
+    "language": "en",
+    "subject": "geography",
+    "age_min": 9,
+    "age_max": 13,
+    "difficulty": "easy",
+    "duration_minutes": 10,
+    "tags": [
+      "geography",
+      "europe",
+      "capitals"
+    ],
+    "categories": [
+      "europe"
+    ]
+  },
+  "settings": {
+    "game_mode": "team_battle",
+    "answer_mode": "head_to_head",
+    "time_per_question": 20,
+    "points_correct": 100
+  },
+  "content": {
+    "questions": [
+      {
+        "question": "What is the capital of France?",
+        "options": [
+          "Paris",
+          "Lyon",
+          "Marseille",
+          "Nice"
+        ],
+        "correct_index": 0,
+        "explanation": "Paris has been France's capital for centuries."
+      },
+      {
+        "question": "What is the capital of Romania?",
+        "options": [
+          "Cluj-Napoca",
+          "Bucharest",
+          "Iași",
+          "Timișoara"
+        ],
+        "correct_index": 1
+      },
+      {
+        "question": "What is the capital of Italy?",
+        "options": [
+          "Milan",
+          "Venice",
+          "Rome",
+          "Naples"
+        ],
+        "correct_index": 2
+      },
+      {
+        "question": "What is the capital of Spain?",
+        "options": [
+          "Madrid",
+          "Barcelona",
+          "Seville"
+        ],
+        "correct_index": 0
+      },
+      {
+        "question": "What is the capital of Germany?",
+        "options": [
+          "Munich",
+          "Hamburg",
+          "Berlin",
+          "Bonn"
+        ],
+        "correct_index": 2,
+        "explanation": "Bonn was the West German capital until 1990."
+      }
+    ]
+  },
+  "presentation": {
+    "theme": "colorful",
+    "sound_enabled": true,
+    "show_explanations": true
+  }
+}
